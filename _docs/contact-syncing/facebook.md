@@ -1,17 +1,12 @@
 ---
-title: Facebook
+title: Login
 category: Contact Syncing
 order: 1
 ---
 
-Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
+# Login
 
-> Signing up with Facebook automatically starts syncing contacts.
-
-To sync your contacts:
-
-1. Open your *User Settings*
-2. Select the **Connect Facebook** button
-3. Authorise ChatApp
-
-![](//placehold.it/800x600)
+![Log In](/img/LogIn.png)
+* A secure login page requires users to provide a username and password.
+* Adding new users to the system is performed by your administrator.
+* If you forget your password, use the password reset tool.
