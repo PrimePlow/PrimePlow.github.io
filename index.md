@@ -9,3 +9,4 @@ This document provides a summary of the functionality provided by Prime Plow.
 
 > Learn more about Prime 3SG+ at our [website](http://prime3sg.com/).
 
+---
