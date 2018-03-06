@@ -1,5 +1,5 @@
 ---
-title: Prime Plow Help
+title: 
 ---
 
 This document provides a summary of the functionality provided by Prime Plow.
