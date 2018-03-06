@@ -1,36 +1,11 @@
 ---
-title: 
+title: Welcome
 ---
 
 This document provides a summary of the functionality provided by Prime Plow.
 
 * Prime Plow is optimized for Google Chrome
-* Last Updated  Tuesday, March 21, 2017
+* Last Updated  Tuesday, March 6, 2018
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+> Learn more about Prime 3SG+ at our [website](http://prime3sg.com/).
 
-### Getting Started
-
-Getting a message sent is quick and easy with ChatApp:
-
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
-
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
-
-### Features
-
-Explore more of ChatApp by reading about our features:
-
-#### Media
-
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
-
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
