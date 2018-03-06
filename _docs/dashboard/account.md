@@ -1,7 +1,7 @@
 ---
 title: Account
 category: Dashboard
-order: 1
+order: 4
 ---
 
 ![Account](/img/account.png)
