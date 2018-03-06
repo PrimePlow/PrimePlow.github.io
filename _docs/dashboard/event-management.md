@@ -4,7 +4,6 @@ category: Dashboard
 order: 2
 ---
 
-## Event Management
 
 Event management is a key feature which supports the dashboard metrics. This page is used to start and end snow events and capture snow event updates. Snow events are required to show recent treatment information to the public.
 
