@@ -1,6 +1,6 @@
 ---
-title: real-time
-category:
+title: Real Time Data
+category: Dashboard
 order: 1
 ---
 
