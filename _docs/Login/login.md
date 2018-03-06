@@ -1,6 +1,6 @@
 ---
 title: Login
-category: dashboard
+category: Login
 order: 1
 ---
 
