@@ -4,7 +4,6 @@ category: Dashboard
 order: 3
 ---
 
-## Vehicles
 
 The vehicle management interface provides a list of all vehicles to be displayed within Prime Plow. Filter tools are available to find a specific vehicle in your fleet.
 
