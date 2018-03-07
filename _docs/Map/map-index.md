@@ -15,3 +15,4 @@ After logging in, the map will default to the Live Vehicles view. To switch betw
 ![Menu Bar Switch](/img/menu-bar-switch03.gif)
 
 * * *
+[Next Page](https://primeplow.github.io/Map/map-tools--basic-navigation/)
