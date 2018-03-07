@@ -3,8 +3,9 @@ title: Welcome
 ---
 <img src="/img/PRIME-Logo.png" width="124.5" height="44.75" />
 
-Welcome to Prime Plow Help, please use the search menu or the navigation tree on the left to find information. 
+Welcome to Prime Plow Help, please use the search bar or the navigation menu on the left to explore our information. 
 
+This site explains the features offered in Prime Plow and guides users through all the tools. 
 
 
 * Prime Plow is optimized for Google Chrome
