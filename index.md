@@ -9,6 +9,6 @@ This document provides a summary of the functionality provided by Prime Plow.
 
 > Learn more about Prime 3SG+ at our [website](http://prime3sg.com/).
 
-![](/uploads/versions/PRIME-Logo---x----498-179x---.png =124.5x44.75)
+![Logo](/uploads/versions/PRIME-Logo---x----498-179x---.png =124.5x44.75)
 
 ---
