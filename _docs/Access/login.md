@@ -10,4 +10,4 @@ order: 1
 * If you forget your password, use the password reset tool.
 
 * * *
-[Next Page](https://primeplow.github.io/Access/login/)
+[Next Page](https://primeplow.github.io/Map/map-index/)
