@@ -44,5 +44,4 @@ This table shows the current number of passes, and the total number of passes pe
 ![Routes](/img/routes.png)
 
 * * *
-
-
+[Next Page](https://primeplow.github.io/dashboard/event-management/)
