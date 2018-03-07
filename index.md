@@ -2,6 +2,8 @@
 title: Welcome
 ---
 
+Welcome to Prime Plow Help, please use the search menu or the navigation tree on the left to find information. 
+
 This document provides a summary of the functionality provided by Prime Plow.
 
 * Prime Plow is optimized for Google Chrome
