@@ -30,3 +30,4 @@ The location filter allows you to search for route based activity within a speci
 * **Polygon:** Click or tap Polygon. On the map, click or tap to start the polygon, and continue to click / tap to add vertices to your polygon. To end your polygon, double click or tap. Click Fetch to retrieve vehicles within your search area.
 
 * * *
+[Next Page](https://primeplow.github.io/dashboard/real-time/)
