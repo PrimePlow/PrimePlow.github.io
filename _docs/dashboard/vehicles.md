@@ -28,3 +28,4 @@ Changing the status will adjust how the vehicle is used within Prime Plow
 Removes a vehicle from your inventory.
 
 ---
+[Next Page](https://primeplow.github.io/dashboard/messages/)
