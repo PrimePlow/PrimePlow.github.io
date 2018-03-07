@@ -17,3 +17,4 @@ The map view is highly interactive. Standard map navigation with mouse and keybo
 * **Street Style Switcher:** This tool is located in the legend and allows you to change they style of the street segments. You may switch between a Priority view and a Simple view.
 
 * * *
+[Next Page](https://primeplow.github.io/Map/live-vehicles/)
