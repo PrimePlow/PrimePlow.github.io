@@ -27,3 +27,4 @@ Live Vehicle view provides a real-time view of every vehicle included in your fl
 ![Other Notes](/img/other-notes.png)
 
 * * *
+[Next Page](https://primeplow.github.io/Map/historical-vehicles/)
