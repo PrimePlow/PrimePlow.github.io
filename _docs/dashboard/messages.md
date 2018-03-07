@@ -5,7 +5,9 @@ order: 4
 ---
 
 
-The message management page gives your organization control over the messages displayed in the public application. There are two types of messages to be displayed:1. **Static Messages:** These messages appear on the right side panel of the public application. These are intended to be used for more permanent messages that provide general information.2. **Scrolling Messages:** These messages scroll across the public map and are intended to be updated frequently to provide the public with up to date status messages about each snow event.
+The message management page gives your organization control over the messages displayed in the public application. There are two types of messages to be displayed:
+1. **Static Messages:** These messages appear on the right side panel of the public application. These are intended to be used for more permanent messages that provide general information.
+2. **Scrolling Messages:** These messages scroll across the public map and are intended to be updated frequently to provide the public with up to date status messages about each snow event.
 
 ![Scrolling Messages](/img/scrolling-messages.png)
 
