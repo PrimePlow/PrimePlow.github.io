@@ -19,3 +19,4 @@ The following functions are available for both static and scrolling messages:
 * **Preview:** Shows a preview of the messages that are turned on.
 
 ---
+[Next Page](https://primeplow.github.io/dashboard/account/)
