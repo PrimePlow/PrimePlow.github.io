@@ -7,9 +7,7 @@ Welcome to Prime Plow Help, please use the search bar or the navigation menu on 
 
 The following pages explain the features offered in Prime Plow and guide users through all the tools. 
 
-<br/><br/>
 Watch our Demo video [here](https://www.dropbox.com/s/5gkrv40meplhg3o/PP_Demo01_iphone.m4v?dl=0)
-
 
 * Prime Plow is optimized for Google Chrome
 * Last Updated Tuesday, March 6, 2018
