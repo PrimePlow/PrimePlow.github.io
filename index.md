@@ -14,6 +14,9 @@ Watch our Demo video [here](https://www.dropbox.com/s/5gkrv40meplhg3o/PP_Demo01_
 
 > Learn more about Prime 3SG+ at our [website](http://prime3sg.com/).
 
-Contact info: 
+Contact Support:
+
+Please email [support@prime3sg.com](mailto:support@prime3sg.com)
+
 
 ---
