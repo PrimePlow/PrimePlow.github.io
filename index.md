@@ -13,7 +13,7 @@ Watch our [Demo Video](https://www.dropbox.com/s/5gkrv40meplhg3o/PP_Demo01_iphon
 * Prime Plow is optimized for Google Chrome
 * Last Updated Tuesday, April 25, 2018
 
-> Learn more about Prime 3SG+ at our [website](http://prime3sg.com/).
+> Learn more about Prime 3SG+ at our [website](https://www.3sgplus.com/).
 
 **Contact Support:**
 
