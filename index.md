@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-![](/img/PRIME-Logo.png)
+![](/img/Logo.png)
 
 Welcome to Prime Plow Help, please use the search bar or the navigation menu on the left to explore our information.
 
