@@ -4,7 +4,7 @@ category: Map
 order: 5
 ---
 
-The Live Streets view allows you to highlight specific routes and view summary route statistics for each route. This function is **only ** available during an active snow event. Please view the event management help section for more information on starting and stopping snow events.
+The Live Streets view allows you to highlight specific routes and view summary route statistics for each route. This function is **_only_** available during an active snow event. Please view the event management help section for more information on starting and stopping snow events.
 
 ![Live Streets](/img/livestreets.png)
 
