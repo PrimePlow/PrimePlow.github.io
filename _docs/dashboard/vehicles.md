@@ -20,8 +20,8 @@ Changing the status will adjust how the vehicle is used within Prime Plow
 * **Treating:** Vehicle fully operational and will show treatment and be used for statistics.
 * **Not Treating:** Vehicle is operational, but assigned to other work. Any breadcrumbs with the plow down or spreader on will **_NOT_** show treatment or be used for statistics.
 * **In Maintenance:** Vehicle has a mechanical issue or is reporting false data. Any breadcrumbs with the plow down or spreader on will **_NOT_** show treatment or be used for statistics.
-* **Unassigned:** Vehicle does not have a status set.
-* **Retired:** Vehicle is no longer in use. Vehicle will be hidden / removed from live truck views and historic search filters.
+* **Unassigned:** Vehicle does not have a status set. Any breadcrumbs with the plow down or spreader on will **_NOT_** show treatment or be used for statistics.
+* **Retired:** Vehicle is no longer in use. Any breadcrumbs with the plow down or spreader on will **_NOT_** show treatment or be used for statistics.
 
 ### Delete Vehicle
 
