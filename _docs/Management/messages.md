@@ -1,7 +1,7 @@
 ---
 title: Messages
 category: Management
-order: 3
+order: 2
 ---
 
 
