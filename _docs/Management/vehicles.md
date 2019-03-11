@@ -4,16 +4,17 @@ category: Management
 order: 3
 ---
 
+![Vehicles](/img/vehicles.png)
 
 The vehicle management interface provides a list of all vehicles to be displayed within Prime Plow. Filter tools are available to find a specific vehicle in your fleet.
-
-![Vehicles](/img/vehicles.png)
 
 ### Add Vehicle
 
 Use this tool to add new vehicles to your fleet. Please note your VIN must match the VIN registered with Networkfleet.
 
 ### Change Status
+
+![Vehicles](/img/vehicles_status.png)
 
 Changing the status will adjust how the vehicle is used within Prime Plow
 
