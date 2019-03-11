@@ -1,6 +1,6 @@
 ---
-title: Event Management
-category: Dashboard
+title: TESTING - Event Management
+category: Managment
 order: 2
 ---
 
