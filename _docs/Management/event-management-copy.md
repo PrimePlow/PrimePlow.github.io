@@ -1,7 +1,7 @@
 ---
 title: Event Management
-category: Dashboard
-order: 2
+category: Management
+order: 1
 ---
 
 
