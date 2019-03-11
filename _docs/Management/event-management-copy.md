@@ -1,6 +1,6 @@
 ---
 title: TESTING - Event Management
-category: Managment
+category: Management
 order: 2
 ---
 
