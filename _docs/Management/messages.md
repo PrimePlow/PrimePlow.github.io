@@ -1,5 +1,5 @@
 ---
-title: TEST - Messages
+title: Messages
 category: Management
 order: 3
 ---
