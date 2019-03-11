@@ -1,5 +1,5 @@
 ---
-title: TESTING - Event Management
+title: Event Management
 category: Management
 order: 0
 ---
