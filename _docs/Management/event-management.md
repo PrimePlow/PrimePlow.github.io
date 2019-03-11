@@ -1,7 +1,7 @@
 ---
 title: TESTING - Event Management
 category: Management
-order: 2
+order: 0
 ---
 
 
@@ -30,4 +30,4 @@ Starting an event will impact the internal map, the internal dashboard, and the 
 * **Public Site:** Ending an event will stop the public application from showing the “treatment” view.
 
 ---
-[Next Page](https://primeplow.github.io/dashboard/vehicles/)
+[Next Page](https://primeplow.github.io/management/vehicles/)
