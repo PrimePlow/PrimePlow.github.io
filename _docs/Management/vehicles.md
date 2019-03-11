@@ -1,6 +1,6 @@
 ---
 title: Vehicles
-category: Dashboard
+category: Management
 order: 3
 ---
 
@@ -28,4 +28,4 @@ Changing the status will adjust how the vehicle is used within Prime Plow
 Removes a vehicle from your inventory.
 
 ---
-[Next Page](https://primeplow.github.io/dashboard/messages/)
+[Next Page](https://primeplow.github.io/Management/messages/)
