@@ -39,7 +39,7 @@ An hourly and daily weather forecast is provided by Dark Sky. You can click on t
 ![Weather](/img/weather.png)
 
 ### Routes
-This table shows the current number of passes, and the total number of passes performed on each route during the selected snow event.
+This table shows the current number of passes, and the total number of passes performed on each route during the selected snow event. The "Current Passes" field indicates how many times a street segment in that particular route has been visited. The "Total Passes" field is one less than the "Current Passes" field to indicate the number of passes while no trucks are treating in that route.
 
 ![Routes](/img/routes.png)
 
