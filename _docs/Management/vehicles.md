@@ -12,6 +12,12 @@ The vehicle management interface provides a list of all vehicles to be displayed
 
 Use this tool to add new vehicles to your fleet. Please note your VIN must match the VIN registered with Networkfleet.
 
+### Change Role
+
+![Vehicles](/img/vehicles_role.png)
+
+Vehicles can be set to have a sensor or have no sensor. A vehicle with no sensor may be marked as such to ensure that it will still mark roads as treated.
+
 ### Change Status
 
 ![Vehicles](/img/vehicles_status.png)
