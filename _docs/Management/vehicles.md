@@ -4,7 +4,7 @@ category: Management
 order: 3
 ---
 
-![Vehicles](/img/vehicles.png)
+![Vehicles](/img/vehicles_tbl.png)
 
 The vehicle management interface provides a list of all vehicles to be displayed within Prime Plow. Filter tools are available to find a specific vehicle in your fleet.
 
@@ -14,13 +14,13 @@ Use this tool to add new vehicles to your fleet. Please note your VIN must match
 
 ### Change Role
 
-![Vehicles](/img/vehicles_role.png)
+![Vehicle role](/img/vehicles_role.png)
 
 Vehicles can be set to have a sensor or have no sensor. A vehicle with no sensor may be marked as such to ensure that it will still mark roads as treated.
 
 ### Change Status
 
-![Vehicles](/img/vehicles_status.png)
+![Vehicle status](/img/vehicles_status.png)
 
 Changing the status will adjust how the vehicle is used within Prime Plow
 
