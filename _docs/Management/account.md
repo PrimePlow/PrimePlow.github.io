@@ -1,6 +1,6 @@
 ---
 title: Account
-category: Dashboard
+category: Management
 order: 5
 ---
 
