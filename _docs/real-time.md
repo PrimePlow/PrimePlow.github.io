@@ -1,6 +1,6 @@
 ---
 title: Real Time Data
-category: Management
+category: Dashboard
 order: 1
 ---
 
@@ -44,4 +44,4 @@ This table shows the current number of passes, and the total number of passes pe
 ![Routes](/img/routes.png)
 
 * * *
-[Next Page](https://primeplow.github.io/Management/event-management/)
+[Next Page](https://primeplow.github.io/dashboard/event-management/)
