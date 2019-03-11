@@ -1,7 +1,7 @@
 ---
-title: Messages
-category: Dashboard
-order: 4
+title: TEST - Messages
+category: Management
+order: 1
 ---
 
 
@@ -21,4 +21,4 @@ The following functions are available for both static and scrolling messages:
 * **Preview:** Shows a preview of the messages that are turned on.
 
 ---
-[Next Page](https://primeplow.github.io/dashboard/account/)
+[Next Page](https://primeplow.github.io/management/event-management-copy/)
