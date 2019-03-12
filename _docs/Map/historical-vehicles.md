@@ -28,8 +28,8 @@ The vehicle filter allows you to filter your search for specific vehicles, vehic
 ![Historical Vehicle Filter](/img/historical_vehicle_filter02.gif)
 
 * You can use the search box to adjust your filter for a specific vehicle ID (i.e. Plow #10279), Role (i.e. Plow), and or Make (i.e. John Deere).
-* To select multiple individual vehicles, just separate the criterion with a comma (i.e. 10279, 10294).
-* Any vehicle with a check-mark will be included in your search results.
+* To select multiple vehicles, just click or tap the vehicles in the list to add them to the search.
+* Vehicles highlighted in light blue are selected for search.
 * Click Fetch to run your search filter.
 
 
