@@ -14,7 +14,7 @@ The Historical Vehicle view provides tools to search for vehicle breadcrumbs cap
 ### Date Filter
 The date filter is required for **_all_** historical searches.
 
-![Historical Search Date Pickers](/img/historical_search_date_pickers.gif)
+![Historical Search Date Pickers](/img/HistoricalVehicles_DateFilter.gif)
 
 * The date filter automatically defaults to the last 12 hours.
 * Click or tap the start date and end dates to display the date picker.  
