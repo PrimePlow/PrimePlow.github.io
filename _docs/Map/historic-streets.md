@@ -1,5 +1,5 @@
 ---
-title: Historic Streets
+title: Historical Streets
 category: Map
 order: 6
 ---
