@@ -17,8 +17,8 @@ The date filter is required for **_all_** historical searches.
 ### Route Filter
 The vehicle filter allows you to filter your search for specific routes.
 * Use the search box to adjust your filter for a specific routes(i.e. Route 201, Priority 1, etc.)
-* To select multiple routes separate them with a comma (i.e. 201, 202).
-* Any route included in your list will be returned by your search (if activity is present).
+* To select multiple routes, just click or tap a route in the list to add them to the search.
+* Routes highlighted in light blue are selected for search.
 * Click Fetch to run your search.
 
 ![Historical Routes](/img/historical_routes.gif)
