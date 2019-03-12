@@ -25,7 +25,7 @@ The date filter is required for **_all_** historical searches.
 ### Vehicle Filter
 The vehicle filter allows you to filter your search for specific vehicles, vehicle groups, or vehicle makes.
 
-![Historical Vehicle Filter](/img/historical_vehicle_filter02.gif)
+![Historical Vehicle Filter](/img/Historical_Vehicles-vehicleFilter.gif)
 
 * You can use the search box to adjust your filter for a specific vehicle ID (i.e. Plow #10279), Role (i.e. Plow), and or Make (i.e. John Deere).
 * To select multiple vehicles, just click or tap the vehicles in the list to add them to the search.
