@@ -4,7 +4,7 @@ category: Map
 order: 6
 ---
 
-The Historic Streets view allows you to search for treatment activity by route within a given time frame. The form is very similar to Historic Vehicles, but the information returns individual street segments and their associated treatment information.
+The Historical Streets view allows you to search for treatment activity by route within a given time frame. The form is very similar to Historic Vehicles, but the information returns individual street segments and their associated treatment information.
 
 ### Date Filter
 The date filter is required for **_all_** historical searches.
