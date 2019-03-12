@@ -24,7 +24,7 @@ Live Vehicle view provides a real-time view of every vehicle included in your fl
 * Live vehicle breadcrumbs are styled in the map based on their category and whether they are moving or idle.
 * Live vehicles that are treating (i.e. plow down, spreader on, brush on) will be highlighted with a yellow circle.
 
-![Other Notes](/img/other-notes.png)
+![Legend Items](/img/vehicles_legend.png)
 
 * * *
 [Next Page](https://primeplow.github.io/Map/historical-vehicles/)
