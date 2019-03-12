@@ -21,7 +21,7 @@ This chart shows how percent complete has changed over time. This allows you to 
 Each line represents a priority, clicking on the line will show the percent complete recorded at that moment in time.
 
 ### Current Activity
-This table displays many vehicles in your fleet have their ignition on and how many routes have a vehicle deployed on them.
+This table displays how many vehicles in your fleet have their ignition on and how many routes have a vehicle deployed on them.
 
 ### Vehicles By Priority
 This table shows what priority your vehicles are currently deployed on.
@@ -39,7 +39,7 @@ An hourly and daily weather forecast is provided by Dark Sky. You can click on t
 ![Weather](/img/weather.png)
 
 ### Routes
-This table shows the current number of passes, and the total number of passes performed on each route during the selected snow event. The "Current Passes" field indicates how many times a street segment in that particular route has been visited. The "Total Passes" field is one less than the "Current Passes" field to indicate the number of passes while no trucks are treating in that route.
+This table shows the current number of passes and the total number of passes performed on each route during the selected snow event. The "Current Passes" field indicates how many times a street segment in that particular route has been visited. The "Total Passes" field is one less than the "Current Passes" field to indicate the number of passes while no trucks are deployed on that route.
 
 ![Routes](/img/routes.png)
 
