@@ -4,7 +4,7 @@ category: Map
 order: 3
 ---
 
-Live Vehicle view provides a real-time view of every vehicle included in your fleet. The Live Vehicle action panel provides several tools to quickly locate an active vehicle within the map. For snow plows and other vehicles with sensors (sweepers, etc.) the current sensor status is displayed for all live vehicles.
+Live Vehicle view provides a real-time view of every vehicle included in your fleet. The Live Vehicle action panel provides several tools to quickly locate an active vehicle within the map. For snow plows and other vehicles with sensors (sweepers, mowers, etc.) the current sensor status is displayed for all live vehicles.
 
 * Selecting a vehicle from the action panel will pan the map and highlight the vehicle.
 * The action panel updates in real-time and displays the last message received for the vehicle.
@@ -20,9 +20,9 @@ Live Vehicle view provides a real-time view of every vehicle included in your fl
 
 **Other notes:**
 
-* Vehicle message interval is controlled by Networkfleet configuration. For plows a 15 second reporting interval is strongly recommended. Please contact Networkfleet support to adjust the reporting interval. Also please note faster reporting intervals will increase data fees with Networkfleet.
+* Vehicle message interval is controlled by the AVL provider configuration. For plows, a 15 second reporting interval is strongly recommended. Please contact the AVL provider support to adjust the reporting interval. Also please note faster reporting intervals will increase data fees with the provider.
 * Live vehicle breadcrumbs are styled in the map based on their category and whether they are moving or idle.
-* Live vehicles that are treating (i.e. plow down, spreader on, brush on) will be highlighted with a yellow circle.
+* Live vehicles that are treating (i.e. plow down, spreader on, brush on) will be highlighted with a green circle.
 
 ![Legend Items](/img/vehicles_legend.png)
 
