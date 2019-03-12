@@ -11,7 +11,8 @@ The top right of the menu bar provides an account management tool. The tool allo
 ### Account Settings
 The settings page lets you change your name, update your password, and add / remove user accounts. Please note your email address will be your user name when logging into the application. Newly added users will receive an account activation email after being added to the system.
 
-### User Management: Users can be assigned to several roles. Each role has different functionality within the application.
+### User Management
+Users can be assigned to several roles. Each role has different functionality within the application.
 
 ![User Management](/img/usermanagement.png)
 
