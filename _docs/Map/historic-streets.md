@@ -21,7 +21,7 @@ The vehicle filter allows you to filter your search for specific routes.
 * Routes highlighted in light blue are selected for search.
 * Click Fetch to run your search.
 
-![Historical Routes](/img/historical_routes.gif)
+![Historical Routes](/img/HistoricalStreets_routeFilter.gif)
 
 ### Location Filter
 The location filter allows you to search for route based activity within a specific area in the map. You can draw a box on the map or draw a polygon on the map using the following options.
