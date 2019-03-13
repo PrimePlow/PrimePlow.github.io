@@ -15,7 +15,9 @@ Starting an event will impact the internal map, the internal dashboard, and the 
 * **Dashboard:** After an event is started the dashboard will start calculating statistics. The statistics shown are specific to the snow event.
 * **Public Site:** After an event is started the “treatment” view displayed in the public application will begin showing treatment information.
 
-![Event Start](/img/Event_Start.gif)
+**Event type:** An event type can be added to denote the different treatment activity taking place (i.e. mowing, snow, leaf).
+
+![Event Start](/img/NewEvent.gif)
 
 ### Event Updates
 
