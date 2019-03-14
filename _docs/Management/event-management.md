@@ -15,9 +15,13 @@ Starting an event will impact the internal map, the internal dashboard, and the 
 * **Dashboard:** After an event is started the dashboard will start calculating statistics. The statistics shown are specific to the snow event.
 * **Public Site:** After an event is started the “treatment” view displayed in the public application will begin showing treatment information.
 
-**Event type:** An event type can be added to denote the different treatment activity taking place (i.e. mowing, snow, leaf).
-
 ![Event Start](/img/NewEvent.gif)
+
+**Event type:** An event type can be added to denote the different treatment activity taking place (i.e. mowing, snow, leaf).
+**Event type filter:** An event type filter will be established by developers upon onboarding and when new event types are created. For each event type, filters can be set to control how vehicles mark road treatment. The following treatment scenarios are possible:
+* Vehicle status set to treating and no event type filter set - Vehicle marks roads as treated
+* Vehicle status set to treating, event type filter set, and no criteria match - Vehicle does NOT mark roads as treated
+* Vehicle status set to treating, event type filter set, and all criteria match - Vehicle marks roads as treated
 
 ### Event Updates
 
