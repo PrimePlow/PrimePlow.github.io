@@ -7,7 +7,7 @@ order: 2
 
 The map view is highly interactive. Standard map navigation with mouse and keyboard as well as touch gestures on a tablet are supported.
 
-![Map tools and basic navigation](/img/maptools-basicnav.png)
+![Map tools and basic navigation](/img/map_nav.png)
 * **Pan** the map by clicking / tapping and dragging the map.
 * **Zoom in / out** on the map by using a mouse scroll wheel or “pinch to zoom”.
 * **Click / Tap** on street centerlines to view detailed street information (street name, priority, and last treated time stamp).
