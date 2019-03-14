@@ -15,6 +15,7 @@ The map view is highly interactive. Standard map navigation with mouse and keybo
 * **Zoom In / Out & Home:** Click / tap on the home icon to return the map to the original extent.
 * **Basemap / Boundary Layers:** The basemap switcher allows you to change the basemap and turn boundary layers on / off.
 * **Street Style Switcher:** This tool is located in the legend and allows you to change they style of the street segments. You may switch between a Priority view and a Simple view.
+* **Full Screen:** Click / tap on the triangle button next to the left-most panel.
 
 * * *
 [Next Page](https://primeplow.github.io/Map/live-vehicles/)
